@@ -5,7 +5,7 @@
 
 As a developer, I have encountered many situations where I have to set a complex environment for the editor to deploy, test, build, debug... every time I switch to my project. Because of this, I want a tool that helps me to do that, automatically.
 
-Hence, I created this organization which contains a set of tools that follow the following [convention](#convention).
+Hence, I created this organization which contains a set of tools that follow the following [convention](#convention) and suggest people to create tools like so.
 
 ## Convention
 
