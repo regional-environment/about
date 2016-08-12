@@ -13,4 +13,4 @@ Hence, I created this organization which contains a set of tools that follow the
 
  2. A regional-environment plugin should uses every configuration items whose names satisfy some rules (*item filter rule*) that the plugin proposes.
 
- 3. It's recommended for plugins to make its item filter rule based on this [npm package](https://www.npmjs.com/package/regional-environment).
+ 3. It's recommended for plugins to make their item filter rules based on this [npm package](https://www.npmjs.com/package/regional-environment).
